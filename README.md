@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&color=00C896&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+xiaofengwang+%F0%9F%91%8B;LLMs+for+Chip+Design+%2F+EDA;Verilog+Code+Generation+%26+Repair+Enthusiast" alt="Typing SVG" />
 </p>
----
 
 ## 👋 About Me
 - 🎓 I’m currently a **first-year Master’s student**, working at the intersection of **Large Language Models (LLMs)** and **Chip Design / EDA**.  
-- 🧠 My main interest is enabling LLMs to **understand, generate, and repair hardware code (Verilog/SystemVerilog)** — including **completion, debugging, refactoring, and design assistance**.  
+
 ## 🛠 Tech Stack
 - **Programming Languages & Tools:** Python, Linux, Shell, Git, GitHub, Vim, Slurm  
 - **Deep Learning & LLM:** PyTorch, Hugging Face Transformers, vLLM, LLaMA-Factory, Verilog
