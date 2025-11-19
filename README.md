@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 - **Programming Languages & Tools:** Python, Linux, Shell, Git, GitHub, Vim, Slurm  
-- **Deep Learning & LLM:** PyTorch, Hugging Face Transformers, vLLM, LLaMA-Factory, Verilog
+- **Deep Learning & LLM:** PyTorch, Hugging Face Transformers, vLLM, LLaMA-Factory, Verl
 
 
 
