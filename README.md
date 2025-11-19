@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID">
+  <a href="https://github.com/xiaofengwang01">
     <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square&label=Profile+Views" alt="profile views" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_ID?tab=followers">
+  <a href="https://github.com/xiaofengwang01?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_ID?style=flat-square&label=Followers" alt="followers" />
   </a>
   <img src="https://img.shields.io/badge/Focus-LLM%20%2B%20EDA-blueviolet?style=flat-square" />
@@ -49,35 +49,20 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-> Things I currently use the most and want to dive deeper into.
-
-**Languages**
-
-- Python · C/C++ · Verilog / SystemVerilog · Markdown · LaTeX
-
-**AI / ML**
-
-- PyTorch · Hugging Face Transformers  
-- Parameter-efficient fine-tuning (e.g., LoRA / PEFT) for LLMs  
-- Hands-on experience with various **code-oriented LLMs** and chat-based models
-
-**Tools & Ecosystem**
-
-- Git / GitHub · Linux  
-- VS Code / Vim  
-- Basic experience with EDA flows (simulation, synthesis, linting, etc.)
+- **Programming Languages & Tools:** Python, Linux, Shell, Git, GitHub, Vim, Slurm  
+- **Deep Learning & LLM:** PyTorch, Hugging Face Transformers, vLLM, LLaMA-Factory, Verilog
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiaofengwang01&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaofengwang01&layout=compact&hide_border=true&theme=transparent" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=xiaofengwang01&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
